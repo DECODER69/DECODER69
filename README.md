@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DECODER69
 - 👀 I’m interested in AI Projects
-- 🌱 I’m currently learning C++ , C#, Python and Lua
+- 🌱 I’m currently learning C++ , C#, Java,  Python and Lua
 - 💞️ I’m looking to collaborate on teams that compatible with my skills
 - 📫 How to reach me? DM me at : decoder0104@gmail.com
 
