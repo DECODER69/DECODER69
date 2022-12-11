@@ -1,7 +1,7 @@
-### Hi there, I'm Edward - aka whychooseaname
+### Hi there, I'm Christian Rapal
 
 
-## I'm a Husband, Father, Developer, and Student!!
+## I'm a Developer, and Student!!
 
 - 🔭 I'm attending Flatiron School for Software Engineering!
 - 🌱 I’m currently learning React 
