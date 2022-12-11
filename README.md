@@ -1,22 +1,59 @@
-## ✉️ Find me on:
+### Hi there, I'm Edward - aka whychooseaname
 
 
-<p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+## I'm a Husband, Father, Developer, and Student!!
+
+- 🔭 I'm attending Flatiron School for Software Engineering!
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+
+### Connect with me:
+[<img align="left" alt="Edward | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Edward | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" />][medium]
 
 <br />
 
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
+### Languages and Tools:
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br />
+<br />
+
+---
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=DECODER69.DECODER69)
+### 📕 Latest Blog Posts
 
-[![Github](https://img.shields.io/github/followers/DECODER69?label=Follow&style=social)](https://github.com/DECODER69)
+<!-- BLOG-POST-LIST:START -->
+- [Making a GitHub Profile ReadMe](https://medium.com/@edward-ea-acosta/making-a-github-profile-readme-369df55fd78e?source=rss-27ef6b4309cb------2)
+- [Prop vs State](https://medium.com/@edward-ea-acosta/prop-vs-state-7cf59a2dc2b9?source=rss-27ef6b4309cb------2)
+- [JavaScript — let, const, or var](https://medium.com/@edward-ea-acosta/javascript-let-const-or-var-1c3f4f764b0e?source=rss-27ef6b4309cb------2)
+- [Using Faker in Ruby](https://medium.com/@edward-ea-acosta/using-faker-in-ruby-eb488b6d0c05?source=rss-27ef6b4309cb------2)
+- [Failing my first (mock)code challenge](https://medium.com/@edward-ea-acosta/failing-my-first-mock-code-challenge-8f0be5218afb?source=rss-27ef6b4309cb------2)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...][medium]
+
+---
+
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="whychooseaname's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=whychooseaname&show_icons=true&hide_border=true&hide=stars" />
+
+</details>
+
+[linkedin]: https://www.linkedin.com/in/edward-acosta-a2890862/
+[medium]: https://edward-ea-acosta.medium.com/
