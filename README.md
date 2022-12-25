@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hello thank you for visiting my GitHub profile.<br>I am Christian Rapal 22 years old and currently working as freelancer on facebook and upwork<br>I am a full stack web developer
-
-
+I'm Christian Rapal, a full-stack web developer.<br>and I appreciate you visiting my GitHub page. <br>I'm 22 years old and presently working as a freelancer on Facebook and Upwork.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rapsiiii/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/xyz_rapsiii/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christian-rapal-7477a4204/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/xyz_rapsiii) 
 
